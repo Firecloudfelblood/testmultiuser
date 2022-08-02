@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/grimripper/IdeaProjects/telegram/testmultiuser">
+        <classes>
+            <class name="Runners.TestRunner"></class>
+        </classes>
+    </test>
+</suite>
